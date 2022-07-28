@@ -1,7 +1,7 @@
 package com.jenin.jetpackcomposenoteapp.data
 
 
-import com.jenin.jetpackcomposenoteapp.model.NoteDataClass
+import com.jenin.jetpackcomposenoteapp.module.NoteDataClass
 
 fun loadNotes():List<NoteDataClass>{
     return listOf(
